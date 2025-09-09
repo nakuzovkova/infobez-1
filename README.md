@@ -31,6 +31,10 @@
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 
 Запишите сеансы сканирования в Wireshark.
+[syn](pcapng/syn.pcapng)  
+[fin](pcapng/fin.pcapng)
+[udp](pcapng/udp.pcapng)
+[xmas](pcapng/xmas.pcapng)
 
 Ответьте на следующие вопросы:
 
